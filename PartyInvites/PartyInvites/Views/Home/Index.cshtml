@@ -12,7 +12,12 @@
 </head>
 <body>
     <div> 
-        Hallo Welt (aus der View)
+        @ViewBag.Greeting World (from View)
+        <br />
+        <p>
+            We're going to have an exciting party.
+        </p>
+        @Html.ActionLink("RSVP now", "RsvpForm")
     </div>
 </body>
 </html>
