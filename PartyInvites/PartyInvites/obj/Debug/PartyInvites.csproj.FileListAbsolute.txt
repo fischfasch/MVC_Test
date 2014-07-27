@@ -33,3 +33,4 @@ D:\Entwicklung\_GitHub\MVC_Test\PartyInvites\PartyInvites\bin\System.Web.Helpers
 D:\Entwicklung\_GitHub\MVC_Test\PartyInvites\PartyInvites\bin\System.Web.Mvc.xml
 D:\Entwicklung\_GitHub\MVC_Test\PartyInvites\PartyInvites\obj\Debug\PartyInvites.dll
 D:\Entwicklung\_GitHub\MVC_Test\PartyInvites\PartyInvites\obj\Debug\PartyInvites.pdb
+D:\Entwicklung\_GitHub\MVC_Test\PartyInvites\PartyInvites\obj\Debug\PartyInvites.csprojResolveAssemblyReference.cache
